@@ -27,6 +27,17 @@
       </ul>
       <h3>導入(一般ユーザ)</h3>
       PC限定で、ユーザースクリプトにより導入することができなくもありませんが、割愛します。
+      <h4>Powered by</h4>
+      <ul>
+        <li>コンテンツ配信: Cloudflare</li>
+        <li>画像最適化: images.weserv.nl</li>
+        <li>ウェブサーバ: Nginx</li>
+        <li>クラウドサービス: OracleCloud</li>
+        <li>バックエンド: Deno with TypeScript | json5-deno</li>
+        <li>フロントエンド: Vue with JavaScript</li>
+        <li>favicon取得API: Node.js with TypeScript | Jimp</li>
+        <li>PR鯖缶認証bot(プロプライエタリ): Node.js with JavaScript | GitHub Webhook</li>
+      </ul>
   </div>
 </template>
 
