@@ -23,7 +23,7 @@
       <h3>導入(インスタンス管理者)</h3>
       <ul>
         <li>上のジェネレータで作成したものを、管理 > サイト設定 > カスタムCSSに貼り付ける</li>
-        <li>CSSのインポートを行う(要本体改造。<a href="https://github.com/cutls/mastodon/tree/theme-opensticker">導入例</a>。)</li>
+        <li>CSSのインポートを行いテーマとして提供する(要本体改造。<a href="https://github.com/cutls/mastodon/tree/theme-opensticker">導入例</a>。)</li>
         <li>Reactのコンポーネントとして表示(要本体改造。<a href="https://github.com/cutls/mastodon/tree/opensticker-as-component">導入例</a>。cf: <a href="https://github.com/cutls/os-mastodon-component">Component</a>)</li>
       </ul>
       <h3>導入(一般ユーザ)</h3>
